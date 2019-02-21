@@ -3,7 +3,7 @@
 *   Data preprocessing such as missing data, categorical data analysis, data normalized before regression
 *   Fit regression models and Evaluated the model’s accuracy with test data using R-Square
 
-## Link to the data visualization: https://peterljw.shinyapps.io/imdb-visualization/
+## demo: https://github.com/rainyuxia0112/Analysis-and-Data-Visualization-based-on-Transportation/blob/master/SLR.ipynb
 
 ## Built With
 
